@@ -25,7 +25,7 @@ public class NewhrisTest {
 	
 @Test(priority=2)
   public void HrisLoginTest() {
-		Hobj.HrisLogin("chetandubey","Cheta@321#");
+		Hobj.HrisLogin("chetandubey","*******");
   }
 	
 	@Test(priority=1)
